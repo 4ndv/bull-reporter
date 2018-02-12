@@ -55,3 +55,5 @@ templates = [
 ```
 
 Where `bull_reporter` - is your prefix from the options
+
+[Example of Grafana queue using this template](https://i.imgur.com/nAicDWI.png)
