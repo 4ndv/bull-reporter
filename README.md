@@ -1,6 +1,6 @@
 # bull-reporter
 
-A tiny package to collect Bull queue stats and put em in statsd server
+A tiny package for collecting Bull queue stats and put em in statsd server
 
 Usage:
 
