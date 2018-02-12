@@ -1,0 +1,19 @@
+{
+  "name": "bull-reporter",
+  "version": "1.0.0",
+  "description": "Package that reports Bull queues stats into statsd server",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bull",
+    "statsd",
+    "monitoring",
+    "queue",
+    "background"
+  ],
+  "author": "Andrey Viktorov",
+  "license": "MIT",
+  "dependencies": {}
+}
